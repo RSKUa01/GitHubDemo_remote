@@ -11,6 +11,7 @@
 		B58ED94F2A01833A0027EE71 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58ED94E2A01833A0027EE71 /* MainView.swift */; };
 		B58ED9512A01833B0027EE71 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B58ED9502A01833B0027EE71 /* Assets.xcassets */; };
 		B58ED9542A01833B0027EE71 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B58ED9532A01833B0027EE71 /* Preview Assets.xcassets */; };
+		B58ED95B2A01857B0027EE71 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B58ED95A2A01857B0027EE71 /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		B58ED94E2A01833A0027EE71 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		B58ED9502A01833B0027EE71 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B58ED9532A01833B0027EE71 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		B58ED95A2A01857B0027EE71 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				B58ED94C2A01833A0027EE71 /* GitHubDemoApp.swift */,
 				B58ED94E2A01833A0027EE71 /* MainView.swift */,
+				B58ED95A2A01857B0027EE71 /* SecondView.swift */,
 				B58ED9502A01833B0027EE71 /* Assets.xcassets */,
 				B58ED9522A01833B0027EE71 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B58ED95B2A01857B0027EE71 /* SecondView.swift in Sources */,
 				B58ED94F2A01833A0027EE71 /* MainView.swift in Sources */,
 				B58ED94D2A01833A0027EE71 /* GitHubDemoApp.swift in Sources */,
 			);
